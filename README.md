@@ -3,7 +3,7 @@ My first mobile game ever, based on a plush that I own : Gatito!!
 
 
 ## Pre-written chunks of code
-  ``
+  ```
 	public void RotateToVertical()
 	{
 		float halflength = boxCollider.x / 2
@@ -22,4 +22,4 @@ My first mobile game ever, based on a plush that I own : Gatito!!
 			return;
 		}
 	}
- ``
+ ```
