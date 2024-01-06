@@ -9,8 +9,6 @@ I don't really have a deadline for this project, but I hope I can finish it befo
 Still, I think I won't have a super fast pace for this since it's neither for a game jam nor for anything really, only reason I do this is to try out some new things and have fun (mustn't get too obsessed abt it lol)
 
 ## Temporary issues / current objectives
-- make obstacle squares smaller so we can see the delimitation between each of them
-- raise side speed of gatito to make it more responsive
 - GENIUS IDEA : ok not so genius but randomize the distance interval between obstacles to make it look more natural (also make them spawn farther from the player)
 - brainstorm about the setting of the game (environment, colors, objects in bg?)
 - brainstorm about more game mechanics (jump pads, moving obstacles)
