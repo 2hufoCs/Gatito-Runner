@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 63c26716d90986b478d0949917842142
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - player: {instanceID: 0}
+  - obsSpawn: {instanceID: 0}
+  - scoreCounter: {fileID: 3378413745117804764, guid: 627eff06200cdd34a967e31a84a83387, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
